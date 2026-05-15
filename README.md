@@ -70,7 +70,8 @@ A Convolutional Neural Network trained on the CIFAR-10 dataset for image classif
 ```text
 Deep-Learning-Projects/
 │
-├── ANN_Regression/
 ├── ANN_Classification/
 ├── CNN_CIFAR10/
+├── Simple_RNN_IMDB/
+├── LSTMRNN_NextWordPred/
 └── README.md
